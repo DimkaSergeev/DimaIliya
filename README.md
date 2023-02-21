@@ -1,1 +1,1 @@
-<h1 lign="center">VueSolitaire</h1>
+<h1 align="center">VueSolitaire</h1>
