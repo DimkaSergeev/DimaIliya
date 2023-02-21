@@ -22,7 +22,7 @@
 
 Cайт предоставляет возможности поиска заказов по номеру и отслеживания доставок.
 
-![изображение поиска заказов](https://sun9-18.userapi.com/impg/AY3bOIzgx8ON_mtJa1U22spaDgtndn_zHF67gg/ahFOIhyskhg.jpg?size=1211x260&quality=96&sign=2639fdac60019a19204a85250350e2fd&type=album)
+![изображение поиска заказов](https://sun9-60.userapi.com/impg/pc9aP4nTre7-E7eylvKIIhM4IdAse6bRIrCpBQ/c9GHQjx0SAM.jpg?size=1211x260&quality=96&sign=13438c04e30d51cd0da0d12b2052c373&type=album)
 
 Данные возможности предлагаются для пользования физическими лицами, интернет-магаинами и партнерами компании. Также пользователи могут просматривать новости и различные тарифы доставки.
 
